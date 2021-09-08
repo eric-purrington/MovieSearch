@@ -19,5 +19,5 @@ A phone app that provides users with the ability to search the [Movie Database](
 
 ## Directions for Future Development
 
---User Dashboard
---Charts with user's hiked mileage
+--
+--
