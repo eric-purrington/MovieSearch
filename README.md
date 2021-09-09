@@ -4,13 +4,12 @@ A React Native application built to make your next cozy movie night amazing.
 
 ## Description
 
-A phone app that provides users with the ability to search the [Movie Database](https://www.themoviedb.org/). Includes redux storage (little overkill) to find previously viewed movies.
+A phone app that provides users with the ability to search the [Movie Database](https://www.themoviedb.org/).
 
 ## Preparing the App
 
 - Initialize the project using ```npm install```
 - iOS - run ```cd ios && pod install``` to get pods (cocoapods required - follow download instructions here [here](https://cocoapods.org/))
-- Add .env to root of project. Local .env should contain proper credentials from .env.sample in order to run successfully. 
 
 ## Running the App
 
@@ -19,5 +18,6 @@ A phone app that provides users with the ability to search the [Movie Database](
 
 ## Directions for Future Development
 
---
---
+- Add local storage to allow users to save movies
+- Add TV section 
+- Filters and sort bys
