@@ -9,7 +9,7 @@ A phone app that provides users with the ability to search the [Movie Database](
 ## Preparing the App
 
 - Initialize the project using ```npm install```
-- iOS - run ```cd ios && pod install``` to get pods (cocoapods required - follow download instructions here [here](https://cocoapods.org/))
+- iOS - run ```cd ios && pod install``` to get pods (cocoapods required - follow download instructions [here](https://cocoapods.org/)
 
 ## Running the App
 
